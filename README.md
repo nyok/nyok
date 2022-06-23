@@ -5,7 +5,13 @@ I'm currently eat 🍒, working on a lot of 🏠 projects, and 🤫, on a projec
 <br/> 
 But it is not exactly. But I want it.
 <br/>
-<br/>
-Listening Now:
-<br/>
+
+<h3>Projects:</h3>
+<p>
+  <a href="https://github.com/nyok/TinyTimeTracker"><img src="https://github.com/nyok/TinyTimeTracker/blob/main/docs/screenshot.png" align="center"  height="168" /></a>
+  <a href="https://github.com/nyok/MusicMenu"><img src="https://github.com/nyok/MusicMenu/blob/main/docs/screenshot.png" align="center"  height="168" /></a>
+</p>
+
+
+<h3>Listening Now:</h3>
 <img src="https://nyok.ru/spotify/image/" align="center"  height="84" />
