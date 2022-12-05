@@ -12,6 +12,14 @@ But it is not exactly. But I want it.
   <a href="https://github.com/nyok/MusicMenu"><img src="https://github.com/nyok/MusicMenu/blob/main/docs/screenshot.png" align="center"  height="168" /></a>
 </p>
 
+<br/>
+
+<p>
+  <b>Diet tracking site prototype</b><br/>
+  <a href="https://github.com/nyok/MyDiet"><img src="https://github.com/nyok/MyDiet/blob/main/docs/screenshot.png" align="center"  height="168" /></a>
+</p>
+
+<br/>
 
 <h3>Listening Now:</h3>
 <img src="https://nyok.ru/spotify/image/" align="center"  height="84" />
